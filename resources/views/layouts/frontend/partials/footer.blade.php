@@ -36,7 +36,7 @@
                 Copyright ©<script>document.write(new Date().getFullYear());</script> All rights reserved  by <a href="https://rsufbd.com" target="_blank">RSUF</a>
             </div>
             <div class="col text-end pt-1">
-                Designed and Developed by  <a href="https://www.swsumon.com">Aayat IT</a>
+                Designed and Developed by  <a href="https://afraaworld.com">AfraaWorld </a>
             </div>
         </div>
 
